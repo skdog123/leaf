@@ -5,7 +5,7 @@ var fall,l1i,l2i,ai;
 function preload(){
   gardenImg = loadImage("garden.png");
   rabbitImg = loadImage("rabbit.png");
-  l1i = loadImage("redimage.png");
+  l1i = loadImage("redImage.png");
   l2i = loadImage("orangeLeaf.png");
   ai = loadImage("apple.png");
 }
